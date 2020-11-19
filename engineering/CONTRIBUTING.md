@@ -1,6 +1,6 @@
 # Contributing
 
-Please note we have a [code of conduct](./CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](../general/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 ## General
 
